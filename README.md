@@ -2,7 +2,7 @@
 
 A Swift Package proxy to serve up the precompiled [SendbirdUIKit](https://github.com/sendbird/sendbird-uikit-ios-spm) and it's transitive [SendbirdChatSDK](https://github.com/sendbird/sendbird-chat-sdk-ios) dependency.
 
-## Motiviation
+## Motivation
 
 This repository exists to streamline the package's download and installation filesize. [There is an open issue on the proxied repository](https://github.com/sendbird/sendbird-uikit-ios-spm/issues/42), which if resolved would cause deprecation of this project.
 
